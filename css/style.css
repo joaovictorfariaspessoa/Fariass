@@ -333,7 +333,7 @@ section.contato{
 /* Estilo de Veículos */
 section.veículos{
     height: 600px;
-    background-image: url(/paginaprincipal/images/ford-ranger-banner.png);
+    background-image: url(/images/ford-ranger-banner.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
